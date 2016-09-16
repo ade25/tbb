@@ -1,15 +1,10 @@
-# sitetheme
+# Try before buy
 
-## Try before Buy Plone Build
+## Plone evaluation build
 
 * `Source code @ GitHub <https://github.com/a25kk/tbb>`_
-* `Releases @ PyPI <http://pypi.python.org/pypi/tbb>`_
-* `Documentation @ ReadTheDocs <http://tbb.readthedocs.org>`_
-* `Continuous Integration @ Travis-CI <http://travis-ci.org/kreativkombinat/tbb>`_
+* `Continuous Integration @ Travis-CI <http://travis-ci.org/ade25/tbb>`_
 
-## How it works
-
-This project templates provides a full blown Plone project environment. It comes with a preconfigured project specific theme package located under the _src_ directory.
 
 ## Installation
 
